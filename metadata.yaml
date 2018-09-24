@@ -1,5 +1,8 @@
 _repo: Tobacco-Growing-Curing-Manufacturing-A-Handbook-for-Planters-in-All-Parts-of-the-World_56135
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56135-h/images/cover.jpg
 creator:
   author:
     agent_name: Lock, Charles G. Warnford (Charles George Warnford)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '48685'
     url: http://www.gutenberg.org/2009/agents/48685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56135#Tobacco-Growing-Curing-Manufacturing-A-Handbook-for-Planters-in-All-Parts-of-the-World
 gutenberg_issued: '2017-12-06'
 gutenberg_type: Text
 identifiers:
